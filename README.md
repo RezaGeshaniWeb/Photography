@@ -1,8 +1,7 @@
 # AvadaPhotography
 
-![viewfinal]()
+![viewfinal](https://github.com/user-attachments/assets/90742f88-8056-4144-9c28-bf923d94ea87)
 
-![view final]()
 
 - [Demo Project](https://rezageshaniweb.github.io/AvadaPhotography/)
 
