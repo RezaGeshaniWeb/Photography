@@ -1,4 +1,18 @@
 # AvadaPhotography
 <a href="https://rezageshaniweb.github.io/AvadaPhotography/">Online Demo</a>
 
-This is a demo work example from the Avada Photography website, which has been developed with HTML and CSS.
+![viewfinal]()
+
+![view final]()
+
+- [Demo Project](https://rezageshaniweb.github.io/AvadaPhotography/)
+
+- Developed by Reza Geshani
+
+- Created - 2024-10-4
+
+- Technologies Used - Html , Css
+
+- Role - Frontend
+
+- How to reach me : with my [instagram](https://www.instagram.com/rezageshani_web) and [linkedin](http://www.linkedin.com/in/reza-geshani-web)
