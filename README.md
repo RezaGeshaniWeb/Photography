@@ -1,5 +1,4 @@
 # AvadaPhotography
-<a href="https://rezageshaniweb.github.io/AvadaPhotography/">Online Demo</a>
 
 ![viewfinal]()
 
