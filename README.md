@@ -1,6 +1,6 @@
 # Photography
 
-- [Demo Project](https://rezageshaniweb.github.io/AvadaPhotography/)
+- [Demo Project](https://rezageshaniweb.github.io/Photography/)
 
 - Developed by Reza Geshani
 
